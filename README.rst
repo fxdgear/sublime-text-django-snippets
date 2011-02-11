@@ -4,7 +4,7 @@ Sublime Text 2 Django Snippets
 Overview
 --------
 
-This first part of a set of snippets for
+This is the first part of a set of snippets for
 `Sublime Text 2 <http://www.sublimetext.com/>`_ to use in Django
 templates. At the moment it includes snippets for all standard Django templates tags.
 
