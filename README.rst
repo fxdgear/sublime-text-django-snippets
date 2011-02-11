@@ -11,13 +11,15 @@ templates. At the moment it includes snippets for all standard Django templates 
 Installation
 ------------
 
-#. Clone this repo
-#. Put the contents of this repo directly inside:
-    OS X: ~/Library/Application Support/Sublime Text 2/Packages/User/
-	Windows: %APPDATA%/Sublime Text 2/Packages/User/
-	Linux: ~/.Sublime Text 2/Packages/User/
-#. Don't forget to turn on django mode View → Syntax → HTML (Django)
-#. That's it, you can use the snippets now.
+1. Clone this repo
+2. Put the contents of this repo directly inside:
+
+ - OS X: ~/Library/Application Support/Sublime Text 2/Packages/User/
+ - Windows: %APPDATA%/Sublime Text 2/Packages/User/
+ - Linux: ~/.Sublime Text 2/Packages/User/
+
+3. Don't forget to turn on django mode View → Syntax → HTML (Django)
+4. That's it, you can use the snippets now.
 
 Snippets list
 -------------
