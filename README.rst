@@ -58,6 +58,8 @@ Snippets list
  with            ``{% with as %} {% endwith %}``
  trans           ``{% trans %}``
  blocktrans		 ``{% blocktrans with as %} {% endblocktrans %}``
+ {               ``{{  }}``
+ %               ``{%  %}``
 =============== ======================================================
 
 ...and some non-official stuff:
